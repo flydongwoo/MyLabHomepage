@@ -40,11 +40,11 @@ AI, 의료 데이터, 신경과학, 머신러닝 등 다양한 연구 내용을 
 ## 📂 프로젝트 구조
 
 # 📁 프로젝트 폴더
- ├── index.html        # 메인 페이지
- ├── style.css         # 스타일링 파일
- ├── main.js           # JavaScript 파일
- ├── img/              # 이미지 파일 폴더
- ├── favicon.ico       # 파비콘
+ - index.html        # 메인 페이지
+ - style.css         # 스타일링 파일
+ - main.js           # JavaScript 파일
+ - img/              # 이미지 파일 폴더
+ - favicon.ico       # 파비콘
 
 
 
