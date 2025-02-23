@@ -1,0 +1,1405 @@
+.Hompage{
+    position: relative;
+    width: 1100px;
+    height: 1364px;
+
+    background: #CFF3E8;
+}
+.NAV{
+    position: absolute;
+    width: 1060px;
+    height: 41px;
+    left: 20px;
+    top: 25px;
+}
+.PKNU{
+    position: absolute;
+    width: 98px;
+    height: 41px;
+    left: 25px;
+    top: 25px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 41px;
+
+    color: #444444;
+}
+.Research{
+    position: absolute;
+    width: 97px;
+    height: 27px;
+    left: 460px;
+    top: 32px;
+
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+
+    color: #FF9907;
+}
+.Member{
+    position: absolute;
+    width: 80px;
+    height: 27px;
+    left: 625px;
+    top: 32px;
+
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+
+    color: #444444;
+}
+.Publication{
+    position: absolute;
+    width: 123px;
+    height: 27px;
+    left: 760px;
+    top: 32px;
+
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+
+    color: #444444;
+}
+.Contact{
+    position: absolute;
+    width: 86px;
+    height: 27px;
+    left: 955px;
+    top: 32px;
+
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+
+    color: #444444;
+
+}
+.Group4{
+    position: absolute;
+    width: 1060px;
+    height: 41px;
+    left: 20px;
+    top: 25px;
+}
+.Banner{
+    position: absolute;
+    width: 1060px;
+    height: 500px;
+    left: 20px;
+    top: 83px;
+}
+.Group2{
+    position: absolute;
+    width: 967px;
+    height: 298px;
+    left: 67px;
+    top: 219px;
+}
+.Rectangle08{
+    position: absolute;
+    width: 1060px; 
+    left: 25px;
+    top: 120px;
+
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(banner.jpg);
+}
+.List_item01{
+    position: absolute;
+    width: 340px;
+    height: 307px;
+    left: 20px;
+    top: 612px;
+}
+.Details{
+    position: absolute;
+    width: 340px;
+    height: 40px;
+    left: 20px;
+    top: 879px;
+
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+
+    color: #666666;
+}
+.Ji_Hye{
+    position: absolute;
+    width: 182px;
+    height: 28px;
+    left: 99px;
+    top: 842px;
+
+    white-space: nowrap;
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 28px;
+    text-align: center;
+
+    color: #000000;
+}
+.img1{
+    position: absolute;
+    
+    left: 25px;
+    top: 640px;
+
+    background: url(img1.png);
+    background-size: cover;
+}
+.List_item02{
+    position: absolute;
+    width: 349px;
+    height: 307px;
+    left: 371px;
+    top: 612px;
+}
+.img2{
+    position: absolute;
+    
+    left: 385px;
+    top: 640px;
+
+    background: url(img2);
+}
+.Virtual_doctor{
+    position: absolute;
+    width: 154px;
+    height: 22px;
+    left: 480px;
+    top: 842px;
+
+    white-space: nowrap;
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 28px;
+    text-align: center;
+
+    color: #212529;
+}
+.The_development{
+    position: absolute;
+    width: 349px;
+    height: 40px;
+    left: 380px;
+    top: 879px;
+
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+
+    color: #666666;
+}
+.List_item03{
+    position: absolute;
+    width: 340px;
+    height: 307px;
+    left: 740px;
+    top: 612px;
+}
+.img3{
+    position: absolute;
+   
+    left: 745px;
+    top: 640px;
+
+    background: url(img3);
+}
+.Neuroimaging_genetics{
+    position: absolute;
+    width: 244px;
+    height: 28px;
+    left: 785px;
+    top: 842px;
+
+    white-space: nowrap;
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 28px;
+    text-align: center;
+
+    color: #212529;
+}
+.Data_informatics{
+    position: absolute;
+    width: 340px;
+    height: 40px;
+    left: 745px;
+    top: 879px;
+
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+
+    color: #666666;
+}
+.List_item04{
+    position: absolute;
+    width: 340px;
+    height: 289px;
+    left: 20px;
+    top: 933px;
+}
+.img4{
+    position: absolute;
+   
+    left: 25px;
+    top: 965px;
+
+    background: url(img4);
+}
+.Neurodegenerative_disease{
+    position: absolute;
+    width: 340px;
+    height: 30px;
+    left: 25px;
+    top: 1166px;
+
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 28px;
+    text-align: center;
+
+    color: #212529;
+}
+.Alzheimers{
+    position: absolute;
+    width: 340px;
+    height: 20px;
+    left: 25px;
+    top: 1202px;
+
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+
+    color: #666666;
+}
+.List_item05{
+    position: absolute;
+    width: 340px;
+    height: 305px;
+    left: 380px;
+    top: 935px;
+}
+.img5{
+    position: absolute;
+    
+    left: 385px;
+    top: 965px;
+
+    background: url(img5);
+}
+.ML{
+    position: absolute;
+    width: 340px;
+    height: 30px;
+    left: 392px;
+    top: 1166px;
+
+    white-space: nowrap;
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 28px;
+    text-align: center;
+
+    color: #212529;
+}
+.Using{
+    position: absolute;
+    width: 340px;
+    height: 38px;
+    left: 380px;
+    top: 1202px;
+
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+
+    color: #666666;
+}
+.List_item06{
+    position: absolute;
+    width: 340px;
+    height: 305px;
+    left: 740px;
+    top: 935px;
+}
+.img6{
+    position: absolute;
+   
+    left: 745px;
+    top: 965px;
+
+    background: url(img6);
+}
+.Data_integration{
+    position: absolute;
+    width: 340px;
+    height: 30px;
+    left: 745px;
+    top: 1166px;
+
+    white-space: nowrap;
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 28px;
+    text-align: center;
+
+    color: #212529;
+}
+.Dimensionality{
+    position: absolute;
+    width: 340px;
+    height: 38px;
+    left: 745px;
+    top: 1202px;
+
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+
+    color: #666666;
+}
+.NAV2{
+    position: absolute;
+    width: 1060px;
+    height: 57px;
+    left: 19px;
+    top: 1307px;
+}
+.Rectangle38{
+    position: absolute;
+    width: 1060px;
+    height: 57px;
+    left: 19px;
+    top: 1307px;
+
+    background: #333333;
+}
+.Copyright{
+    position: absolute;
+    width: 138px;
+    height: 20px;
+    left: 480px;
+    top: 1300px;
+
+    white-space: nowrap;
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+
+    color: #C9C9C9;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 699px) and (max-width: 797px) {
+    .tablet{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 10px;
+
+        position: absolute;
+        width: 759px;
+        height: 41px;
+        left: 21px;
+        top: 25px;
+    }
+    .inside_tablet{
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+    }
+    .Hompage{
+        position: relative;
+        width: 1100px;
+        height: 1650px;
+    
+        background: #CFF3E8;
+    }
+    .NAV{
+        position: absolute;
+        width: 1060px;
+        height: 41px;
+        left: 20px;
+        top: 25px;
+    }
+    .PKNU{
+        position: absolute;
+        width: 98px;
+        height: 41px;
+        left: 35px;
+        top: 0px;
+
+        font-family: 'Rubik';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 35px;
+        line-height: 41px;
+
+        color: #444444;
+    }
+    .Research{
+        position: absolute;
+        width: 79px;
+        height: 27px;
+        left: 450px;
+        top: 7px;
+
+        font-family: 'Bree Serif';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 27px;
+
+        color: #FF9907;
+    }
+    .Member{
+        position: absolute;
+        width: 80px;
+        height: 27px;
+        left: 610px;
+        top: 7px;
+
+        font-family: 'Bree Serif';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 27px;
+
+        color: #444444;
+    }
+    .Publication{
+        position: absolute;
+        width: 123px;
+        height: 27px;
+        left: 745px;
+        top: 7px;
+
+        font-family: 'Bree Serif';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 27px;
+
+        color: #444444;
+    }
+    .Contact{
+        position: absolute;
+        width: 86px;
+        height: 27px;
+        left: 940px;
+        top: 7px;
+
+        font-family: 'Bree Serif';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 27px;
+
+        color: #444444;
+    
+    }
+    .Group4{
+        position: absolute;
+        width: 759px;
+        height: 41px;
+    }
+    .Banner{
+        position: absolute;
+        width: 760px;
+        height: 500px;
+        left: 19px;
+        top: 83px;
+    }
+    .Group2{
+        position: absolute;
+        width: 598px;
+        height: 346px;
+        left: 100px;
+        top: 166px;
+    }
+    .Rectangle08{
+        position: absolute;
+        width: 760px !important;
+        height: 500px;
+        left: 19px;
+        top: 90px;
+
+        background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(banner.jpg);
+    }
+    .List_item01{
+        position: absolute;
+        width: 369px;
+        height: 307px;
+        left: 20px;
+        top: 612px;
+    }
+    .Details{
+        position: absolute;
+        width: 369px;
+        height: 40px;
+        left: 10px;
+        top: 860px;
+        
+        white-space: nowrap;
+        font-family: 'Lora';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+        
+        color: #666666;
+    }
+    .Ji_Hye{
+        position: absolute;
+        width: 369px;
+        height: 46px;
+        left: 15px;
+        top: 820px;
+        
+        white-space: nowrap;
+        font-family: 'Lora';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 28px;
+        text-align: center;
+        
+        color: #000000;
+    }
+    .img1{
+        position: absolute;
+        width: 370px !important;
+        height: 221px;
+        left: 20px;
+        top: 612px;
+        
+        background: url(img1.png);
+    }
+    .List_item02{
+        position: absolute;
+        width: 370px;
+        height: 307px;
+        left: 409px;
+        top: 612px;
+    }
+    .img2{
+        position: absolute;
+        width: 370px;
+        height: 221px;
+        left: 409px;
+        top: 612px;
+        
+        background: url(img2);
+    }
+    .Virtual_doctor{
+        position: absolute;
+        width: 370px;
+        height: 36px;
+        left: 395px;
+        top: 820px;
+        
+        white-space: nowrap;
+        font-family: 'Lora';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 28px;
+        text-align: center;
+        
+        color: #212529;
+    }
+    .The_development{
+        position: absolute;
+        width: 370px;
+        height: 40px;
+        left: 395px;
+        top: 860px;
+        
+        font-family: 'Lora';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+        
+        color: #666666;
+    }
+    .List_item03{
+        position: absolute;
+        width: 369px;
+        height: 307px;
+        left: 20px;
+        top: 933px;
+    }
+    .img3{
+        position: absolute;
+        width: 369px;
+        height: 221px;
+        left: 20px;
+        top: 933px;
+        
+        background: url(img3.png);
+    }
+    .Neuroimaging_genetics{
+        position: absolute;
+        width: 369px;
+        height: 36px;
+        left: 10px;
+        top: 1150px;
+        
+        font-family: 'Lora';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 28px;
+        text-align: center;
+        
+        color: #212529;
+    }
+    .Data_informatics{
+        position: absolute;
+        width: 369px;
+        height: 40px;
+        left: 10px;
+        top: 1190px;
+        
+        font-family: 'Lora';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+        
+        color: #666666;
+    }
+    .List_item04{
+        position: absolute;
+        width: 370px;
+        height: 307px;
+        left: 409px;
+        top: 933px;
+    }
+    .img4{
+        position: absolute;
+        width: 370px;
+        height: 221px;
+        left: 409px;
+        top: 933px;
+        
+        background: url(img4);
+    }
+    .Neurodegenerative_disease{
+        position: absolute;
+        width: 370px;
+        height: 36px;
+        left: 390px;
+        top: 1150px;
+        
+        white-space: nowrap;
+        font-family: 'Lora';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 28px;
+        text-align: center;
+        
+        color: #212529;
+    }
+    .Alzheimers{
+        position: absolute;
+        width: 370px;
+        height: 40px;
+        left: 390px;
+        top: 1200px;
+        
+        font-family: 'Lora';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+        
+        color: #666666;
+    }
+    .List_item05{
+        position: absolute;
+        width: 371px;
+        height: 306px;
+        left: 21px;
+        top: 1254px;
+    }
+    .img5{
+        position: absolute;
+        width: 369px;
+        height: 221px;
+        left: 21px;
+        top: 1254px;
+        
+        background: url(img5.png);
+    }
+    .ML{
+        position: absolute;
+        width: 370px;
+        height: 28px;
+        left: 10px;
+        top: 1470px;
+        
+        white-space: nowrap;
+        font-family: 'Lora';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 28px;
+        text-align: center;
+        
+        color: #212529;
+    }
+    .Using{
+        position: absolute;
+        width: 370px;
+        height: 39px;
+        left: 10px;
+        top: 1510px;
+        
+        font-family: 'Lora';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+        
+        color: #666666;
+    }
+    .List_item06{
+        position: absolute;
+        width: 370px;
+        height: 306px;
+        left: 409px;
+        top: 1254px;
+    }
+    .img6{
+        position: absolute;
+        width: 368px;
+        height: 221px;
+        left: 411px;
+        top: 1254px;
+        
+        background: url(img6);
+    }
+    .Data_integration{
+        position: absolute;
+        width: 370px;
+        height: 28px;
+        left: 390px;
+        top: 1470px;
+        
+        white-space: nowrap;
+        font-family: 'Lora';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 28px;
+        text-align: center;
+        
+        color: #212529;
+    }
+    .Dimensionality{
+        position: absolute;
+        width: 370px;
+        height: 39px;
+        left: 390px;
+        top: 1510px;
+        
+        font-family: 'Lora';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+        
+        color: #666666;
+    }
+    .NAV2{
+        position: absolute;
+        width: 759px;
+        height: 57px;
+        left: 20px;
+        top: 1626px;
+    }
+    .Rectangle38{
+        position: absolute;
+        width: 759px;
+        height: 57px;
+        left: 20px;
+        top: 1600px;
+        
+        background: #333333;
+    }
+    .Copyright{
+        position: absolute;
+        width: 161px;
+        height: 20px;
+        left: 319px;
+        top: 1600px;
+
+        white-space: nowrap;
+        font-family: 'Lora';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+
+        color: #C9C9C9;
+    }
+    .Hamburger{
+        display: none;
+    }
+    .line6{
+        display: none;
+    }
+    .line7{
+        display: none;
+    }
+    .line8{
+        display: none;
+    }
+    .line6:hover{
+        display: none;
+    }
+    .line7:hover{
+        display: none;
+    }
+    .line8:hover{
+        display: none;
+    }
+
+}
+
+
+@media only screen and (max-width: 698px) {
+    .tablet{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 10px;
+        
+        position: absolute;
+        width: 98px;
+        height: 41px;
+        left: 65px;
+        top: 25px;
+    }
+    .inside_tablet{
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+    }
+    .Hompage{
+        position: relative;
+        width: 698px;
+        height: 2450px;
+        
+        background: #CFF3E8;
+    }
+    
+    .NAV{
+        position: absolute;
+        width: 1060px;
+        height: 41px;
+        left: 20px;
+        top: 25px;
+    }
+    .PKNU{
+        position: absolute;
+        width: 98px;
+        height: 41px;
+        left: 40px;
+        top: 0px;
+        
+        font-family: 'Rubik';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 35px;
+        line-height: 41px;
+        
+        color: #444444;
+    }
+    .Research{
+        display: none;
+    }
+    .Member{
+        display: none;
+    }
+    .Publication{
+        display: none;
+    }
+    .Contact{
+        display: none;
+    }
+
+    .Hamburger{
+        
+        top: 35px;
+    }
+
+    .line6{
+        position: absolute;
+        width: 40px;
+        height: 1px;
+        left: 550px;
+        top: 35px;
+        transform: rotate(0deg);
+
+        background-color: #444444;
+        border: 5px solid #444444;
+    }
+    .line7{
+        position: absolute;
+        width: 40px;
+        height: 1px;
+        left: 550px;
+        top: 50px;
+        transform: rotate(0deg) translateY(0px);
+
+        background-color: #444444;
+        border: 5px solid #444444;
+    }
+    .line8{
+        position: absolute;
+        width: 40px;
+        height: 1px;
+        left: 550px;
+        top: 65px;
+        transform: rotate(0deg);
+
+        background-color: #444444;
+        border: 5px solid #444444;
+    }
+    .Hamburger:hover .line6 {
+        transform: translateY(20px) rotate(45deg);
+    }
+    
+    .Hamburger:hover .line7 {
+        transform: rotate(-45deg);
+    }
+    
+    .Hamburger:hover .line8 {
+        opacity: 0;
+    }
+
+    .Group4{
+        position: absolute;
+        width: 98px;
+        height: 41px;
+    }
+    .Banner{
+        position: absolute;
+        width: 568px;
+        height: 350px;
+        left: 65px;
+        top: 81px;
+    }
+    .Group2{
+        position: absolute;
+        width: 479px;
+        height: 274px;
+        left: 109px;
+        top: 146px;
+    }
+    .Rectangle08{
+        position: absolute;
+        width: 380px;
+        height: 350px;
+        right: 65px;
+        bottom: 2817px;
+        
+        background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(banner.jpg);
+    }
+    .List_item01{
+        position: absolute;
+        width: 571px;
+        height: 434px;
+        left: 62px;
+        top: 462px;
+    }
+
+    .Details{
+        position: absolute;
+        width: 568px;
+        height: 40px;
+        left: 55px;
+        top: 868px;
+        
+        font-family: 'Lora';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+        
+        color: #666666;
+    }
+    .Ji_Hye{
+        position: absolute;
+        width: 568px;
+        height: 28px;
+        left: 55px;
+        top: 830px;
+        
+        font-family: 'Lora';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 28px;
+        text-align: center;
+        
+        color: #000000;
+    }
+    .img1{
+        position: absolute;
+        width: 571px;
+        height: 341.98px;
+        left: 165px;
+        top: 630px;
+        
+        background: url(img1.png);
+    }
+    .List_item02{
+        position: absolute;
+        width: 571px;
+        height: 433px;
+        left: 62px;
+        top: 910px;
+        
+    }
+    .img2{
+        position: absolute;
+        width: 571px;
+        height: 341.06px;
+        left: 165px;
+        top: 910px;
+        
+        background: url(img2.png);
+    }
+    .Virtual_doctor{
+        position: absolute;
+        width: 568px;
+        height: 28px;
+        left: 55px;
+        top: 1110px;
+        
+        font-family: 'Lora';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 28px;
+        text-align: center;
+        
+        color: #212529;
+    }
+    .The_development{
+        position: absolute;
+        width: 568px;
+        height: 40px;
+        left: 55px;
+        top: 1145px;
+        
+        font-family: 'Lora';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+        
+        color: #666666;
+    }
+    .List_item03{
+        position: absolute;
+        width: 568px;
+        height: 432px;
+        left: 65px;
+        top: 1357px;
+    }
+    .img3{
+        position: absolute;
+        width: 568px;
+        height: 340.18px;
+        left: 165px;
+        top: 1210px;
+
+        background: url(img3.png);
+    }
+    .Neuroimaging_genetics{
+        position: absolute;
+        width: 568px;
+        height: 28px;
+        left: 55px;
+        top: 1410px;
+        
+        font-family: 'Lora';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 28px;
+        text-align: center;
+        
+        color: #212529;
+    }
+    .Data_informatics{
+        position: absolute;
+        width: 568px;
+        height: 40px;
+        left: 55px;
+        top: 1450px;
+        
+        font-family: 'Lora';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+        
+        color: #666666;
+    }
+    .List_item04{
+        position: absolute;
+        width: 568px;
+        height: 430px;
+        left: 65px;
+        top: 1803px;
+    }
+    .img4{
+        position: absolute;
+        width: 566px;
+        height: 338.07px;
+        left: 165px;
+        top: 1500px;
+        
+        background: url(img4.png);
+    }
+    .Neurodegenerative_disease{
+        position: absolute;
+        width: 568px;
+        height: 28px;
+        left: 55px;
+        top: 1695px;
+        
+        font-family: 'Lora';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 28px;
+        text-align: center;
+        
+        color: #212529;
+    }
+    .Alzheimers{
+        position: absolute;
+        width: 568px;
+        height: 40px;
+        left: 55px;
+        top: 1735px;
+        
+        font-family: 'Lora';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+        
+        color: #666666;
+    }
+    .List_item05{
+        position: absolute;
+        width: 568px;
+        height: 432px;
+        left: 65px;
+        top: 2247px;
+        
+    }
+    .img5{
+        position: absolute;
+        width: 568px;
+        height: 340.18px;
+        left: 165px;
+        top: 1790px;
+        
+        background: url(img5);
+    }
+    .ML{
+        position: absolute;
+        width: 568px;
+        height: 28px;
+        left: 55px;
+        top: 1990px;
+        
+        font-family: 'Lora';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 28px;
+        text-align: center;
+        
+        color: #212529;
+    }
+    .Using{
+        position: absolute;
+        width: 568px;
+        height: 40px;
+        left: 55px;
+        top: 2025px;
+        
+        font-family: 'Lora';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+        
+        color: #666666;
+    }
+    .List_item06{
+        position: absolute;
+        width: 568px;
+        height: 433px;
+        left: 65px;
+        top: 2693px;
+    }
+    .img6{
+        position: absolute;
+        width: 568px;
+        height: 341.11px;
+        left: 165px;
+        top: 2080px;
+        
+        background: url(img6.png);
+    }
+    .Data_integration{
+        position: absolute;
+        width: 568px;
+        height: 28px;
+        left: 55px;
+        top: 2280px;
+        
+        font-family: 'Lora';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 28px;
+        text-align: center;
+        
+        color: #212529;
+        
+    }
+    .Dimensionality{
+        position: absolute;
+        width: 568px;
+        height: 40px;
+        left: 55px;
+        top: 2320px;
+        
+        font-family: 'Lora';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+        
+        color: #666666;
+    }
+    .NAV2{
+        position: absolute;
+        width: 568px;
+        height: 57px;
+        left: 65px;
+        top: 3191px;
+    }
+    .Rectangle38{
+        position: absolute;
+        width: 620px;
+        height: 57px;
+        left: 30px;
+        top: 2400px;
+        
+        background: #333333;
+    }
+    .Copyright{
+        position: absolute;
+        width: 138px;
+        height: 20px;
+        left: 265px;
+        top: 2400px;
+        
+        font-family: 'Lora';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        
+        color: #C9C9C9;
+    }
+
+
+}
