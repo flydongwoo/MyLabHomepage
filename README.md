@@ -1,4 +1,4 @@
-🌟 Welcome to Dongwoo's Future Lab Homepage 🌟
+### 🌟 Welcome to Dongwoo's Future Lab Homepage 🌟
 
 
 
@@ -6,6 +6,8 @@
 
 안녕하세요! 😊 제가 개인 프로젝트로 만든 반응형 웹페이지를 소개합니다! 🎉
 이 프로젝트는 Dongwoo Kim이 미래에 하고 싶은 연구와 데이터 분석을 다루는 웹사이트예요! 🖥️💡
+
+
 
 ## 🚀 주요 기능
 
@@ -33,6 +35,8 @@
 AI, 의료 데이터, 신경과학, 머신러닝 등 다양한 연구 내용을 한눈에 확인 가능합니다.
 또한, 제 사진을 AI에 넣고 AI가 만들어준 사진 또한 첨부 해두었습니다^^
 
+
+
 ## 📂 프로젝트 구조
 
 # 📁 프로젝트 폴더
@@ -42,15 +46,21 @@ AI, 의료 데이터, 신경과학, 머신러닝 등 다양한 연구 내용을 
  ├── img/              # 이미지 파일 폴더
  ├── favicon.ico       # 파비콘
 
+
+
 ## 🎨 기술 스택
 
 ✨ Frontend: HTML, CSS, JavaScript 🖌️✨ 
 Fonts: Google Fonts (Rubik, Bree Serif, Lora) 
 🎨✨ Responsive Design: 미디어 쿼리를 활용한 반응형 웹 지원 📱💻
 
+
+
 ## 🚀 실행 방법
 
 file:///C:/Users/%EA%B9%80%EB%8F%99%EC%9A%B0/Desktop/UNIVERSITY/24%ED%95%99%EB%85%84%EB%8F%84%201%ED%95%99%EA%B8%B0%20%EA%B9%80%EB%8F%99%EC%9A%B0/%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20Assignment%2002/%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%A4%91%EA%B0%84%EA%B3%A0%EC%82%AC/index.html
+
+
 
 ## 🛠️ 개선할 점
 
